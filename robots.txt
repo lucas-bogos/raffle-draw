@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /index.html
+Allow: /settings/opcoes-de-sorteio.html
